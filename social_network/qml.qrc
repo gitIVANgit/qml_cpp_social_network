@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HeaderDataType.qml</file>
+        <file>MyStyle.qml</file>
+        <file>MyContentItem.qml</file>
+        <file>MyButtonStartPageLoginRegister.qml</file>
+        <file>images/logo.png</file>
+        <file>MyRegisterStartPage.qml</file>
+        <file>MyLoginStartPage.qml</file>
+        <file>images/question.png</file>
+        <file>images/questionLogo.png</file>
+        <file>images/loadImage.png</file>
+        <file>MySubmitButton.qml</file>
+        <file>MyMainProfilePage.qml</file>
+        <file>images/addFriend.png</file>
+        <file>images/avatarPhoto.png</file>
+        <file>MyProfileLeftItem.qml</file>
+        <file>images/expandIcon.png</file>
+        <file>images/delete.png</file>
+    </qresource>
+</RCC>
