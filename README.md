@@ -1,7 +1,5 @@
 ## prototype of social network
 
-быстренький видео-обзорчик https://youtu.be/ZbuH843UH9M
-
 ---
 > Qt
 > 
